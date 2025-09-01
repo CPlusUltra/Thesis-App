@@ -1,7 +1,7 @@
 # Thesis-App
 a repository to collaborate on thesis app
-![alt text](https://github.com/CPlusUltra/Thesis-App/blob/main/rider.jpg?raw=true)
-![alt text](https://github.com/CPlusUltra/Thesis-App/blob/main/passenger.jpg?raw=true)
+![rider app design](https://github.com/CPlusUltra/Thesis-App/blob/main/rider.jpg?raw=true)
+![passenger app design](https://github.com/CPlusUltra/Thesis-App/blob/main/passenger.jpg?raw=true)
 
 # Jeepney Finder App Documentation
 
